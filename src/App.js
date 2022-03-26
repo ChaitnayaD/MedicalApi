@@ -8,6 +8,7 @@ import Typography from "@mui/material/Typography";
 import { Grid } from "@mui/material";
 import Paper from "@mui/material/Paper";
 import { styled } from "@mui/material/styles";
+import "./App.css";
 
 const Item = styled(Paper)(({ theme }) => ({
   ...theme.typography.body2,
